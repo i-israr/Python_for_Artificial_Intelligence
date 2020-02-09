@@ -1,0 +1,72 @@
+-> we have to use visual studio code for development.
+-> zen of python (import this)
+-> datatypes have methods and attributes
+-> premited datatype we can make our own data types
+-> datatype (set ,list ,taple ,dictionary) 
+-> operation ,operator , operand
+-> shallow copy (operand copy the addresses of the operands if the value of the operands are same)   
+-> list will be hetroginus and arry will be homoginius
+-> list []  we can update the value of list .sequence and index is important
+-> tupel()  we canot update the valuse of the tuple.sequence and index is important
+-> set{}
+-> dictionary { with keys and values}                 no index and sequence meters ( we use key for data)key and value  
+-> string operations 
+		change in memory
+			name = "iSraR"
+			name p name.lower()
+			print(name)
+		change in line 
+			name = "israr"
+			print(name.lower())
+
+
+		name = "    israr ul    haq"
+		print(len(name))    #it calculte the len
+		print(name.litle()) 
+		print(name,lstrip()) #delete extra spaces frome left
+
+
+a = "we are pakistani and we love our countery"
+
+
+
+slicing.... list tuple string
+start  includes 
+and    not includes
+step		
+
+			a[7:15:1] #start:end:step
+OPERATERS
++ list... extand
++ tuple...extand
++ set , ....perform no opration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
