@@ -1,2 +1,2 @@
 # Python
-Python functions 
+Learning AI with python 
